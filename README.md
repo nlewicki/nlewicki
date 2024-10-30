@@ -7,4 +7,4 @@
 
 - 🔧 Tools:
 
-  [![My Skills](https://skillicons.dev/icons?i=docker,vscode,github,notion)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=docker,vscode,github,notion,git)](https://skillicons.dev)
