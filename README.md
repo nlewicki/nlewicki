@@ -1,5 +1,3 @@
-Hello world!
-
 - 👋 Hi, I’m @nlewicki
 - 🌱 Studying at 42 Heilbronn & Hochschule Heilbronn
 - ⚡ 42 Core 
